@@ -1,4 +1,4 @@
-## Hi there, I'm Maksym 👋 <div align="right"><img src="https://komarev.com/ghpvc/?username=Nordant&color=brightgreen" alt="watching_count"/></div>
+## Hi there, I'm Maksym 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Nordant&color=brightgreen" alt="watching_count"/>
 
 🎓 I have a PhD degree in Biology and 40+ [scientific publications](https://www.researchgate.net/profile/Maksym-Shkliarevskyi-2).
 
