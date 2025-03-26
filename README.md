@@ -5,7 +5,7 @@
 💻 I'm a programmer and data analyst in clinical trials (main areas of expertise: oncology and rheumatology). Also have 6+ years of experience as a researcher and lecturer.
 
 📗 My main interests: physiology, biochemistry, oncology, rheumatology, AI/ML in biology and medicine, open source development.
-<br/><br/>
+<!--<br/><br/>-->
 
 ### Languages and main tools:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
@@ -14,7 +14,7 @@
 [![SQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
-<br/><br/>
+<!--<br/><br/>-->
 
 ### 📫 My links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-shkliarevskyi-8835581b1/)
@@ -30,19 +30,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nordant&repo=plantstat)](https://github.com/Nordant/plantstat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nordant&repo=Reddit-Data-Science-Posts)](https://github.com/Nordant/Reddit-Data-Science-Posts)
--->
-
-<!--
-**Nordant/Nordant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
