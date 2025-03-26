@@ -1,8 +1,8 @@
 ## Hi there, I'm Maksym 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Nordant&color=brightgreen" alt="watching_count"/>
 
-🎓 I have a PhD degree in Biology and 40+ [scientific publications](https://www.researchgate.net/profile/Maksym-Shkliarevskyi-2).
+🎓 I have a PhD degree in Biology.
 
-💻 I'm currently working as a programmer and data analyst in clinical trials. Main areas of expertise: oncology and rheumatology. Also, I have 6+ years of experience as a researcher and lecturer.
+💻 I'm currently working as a programmer and data analyst in clinical trials. Main areas of expertise: oncology and rheumatology. Also, I have 6+ years of experience as a researcher and lecturer, and 40+ [scientific publications](https://www.researchgate.net/profile/Maksym-Shkliarevskyi-2).
 
 📗 My main interests: physiology, biochemistry, oncology, rheumatology, AI/ML in biology and medicine, open source development.
 <!--<br/><br/>-->
