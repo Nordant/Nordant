@@ -2,7 +2,7 @@
 <!--<img align="right" src="https://visitor-badge.laobi.icu/badge?username=Nordant&page_id=Nordant.Nordant&color=brightgreen"/>-->
 🎓 I have a PhD degree in Biology.
 
-💻 I'm currently working as a programmer and data analyst in clinical trials. Main areas of expertise: oncology and rheumatology. Also, I have 6+ years of experience as a researcher and lecturer, and 40+ [scientific publications](https://www.researchgate.net/profile/Maksym-Shkliarevskyi-2).
+💻 I'm currently working as a programmer and data analyst in clinical trials. Main areas of expertise: oncology and rheumatology. Also, I have 7+ years of experience as a researcher and lecturer, and 40+ [scientific publications](https://www.researchgate.net/profile/Maksym-Shkliarevskyi-2).
 
 📗 My main interests: physiology, biochemistry, oncology, rheumatology, AI/ML in biology and medicine, open source development.
 <!--<br/><br/>-->
