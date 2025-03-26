@@ -1,5 +1,5 @@
-## Hi there, I'm Maksym 👋 <img align="right" src="https://komarev.com/ghpvc/?username=Nordant&color=brightgreen" alt="watching_count"/>
-
+## Hi there, I'm Maksym 👋 <img align="right" src="https://img.shields.io/github/stars/Nordant?label=Stars" alt="stars"> <img align="right" src="https://komarev.com/ghpvc/?username=Nordant&color=brightgreen" alt="watching_count"/>
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?username=Nordant&page_id=Nordant.Nordant&color=brightgreen"/>-->
 🎓 I have a PhD degree in Biology.
 
 💻 I'm currently working as a programmer and data analyst in clinical trials. Main areas of expertise: oncology and rheumatology. Also, I have 6+ years of experience as a researcher and lecturer, and 40+ [scientific publications](https://www.researchgate.net/profile/Maksym-Shkliarevskyi-2).
@@ -30,4 +30,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nordant&repo=plantstat)](https://github.com/Nordant/plantstat)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nordant&repo=Reddit-Data-Science-Posts)](https://github.com/Nordant/Reddit-Data-Science-Posts)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nordant&theme=juicyfresh&no-bg=true" />
 -->
