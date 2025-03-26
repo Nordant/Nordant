@@ -2,7 +2,7 @@
 
 🎓 I have a PhD degree in Biology and 40+ [scientific publications](https://www.researchgate.net/profile/Maksym-Shkliarevskyi-2).
 
-💻 I'm a programmer and data analyst in clinical trials (main areas of expertise: oncology and rheumatology). Also have 6+ years of experience as a researcher and lecturer.
+💻 I'm currently working as a programmer and data analyst in clinical trials. Main areas of expertise: oncology and rheumatology. Also, I have 6+ years of experience as a researcher and lecturer.
 
 📗 My main interests: physiology, biochemistry, oncology, rheumatology, AI/ML in biology and medicine, open source development.
 <!--<br/><br/>-->
