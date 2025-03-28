@@ -19,8 +19,9 @@
 ### My links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-shkliarevskyi-8835581b1/)
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Maksym-Shkliarevskyi-2)
-[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7781-4481)
+[![Scopus](https://img.shields.io/badge/SCOPUS-%23E9711C?style=for-the-badge&logo=scopus&logoColor=white&logoSize=5)](https://www.scopus.com/authid/detail.uri?authorId=57208838319)
 [![Google_Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=htk8dB0AAAAJ&hl=uk)
+[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7781-4481)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/maksymshkliarevskyi)
 
 <!--
